@@ -1,13 +1,13 @@
 # 5-Channel RC Airplane System (Arduino Nano + nRF24L01)
 
-## 📌 Overview
+##  Overview
 This is a personal project where I built a **5-channel RC airplane control system** using an **Arduino Nano** and the **nRF24L01 2.4GHz transceiver module** for wireless communication.
 
 The project focuses on combining **embedded systems design**, **wireless communication**, and **RC aircraft mechanics** into a functional prototype.
 
 ---
 
-## ⚙️ Current Features
+##  Current Features
 - ✔️ 5-channel wireless control system  
 - ✔️ Arduino Nano-based transmitter/receiver setup  
 - ✔️ nRF24L01 2.4GHz communication module  
@@ -15,7 +15,7 @@ The project focuses on combining **embedded systems design**, **wireless communi
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 This project is designed for further upgrades. Planned improvements include:
 
 -  Extended communication range (target: long-range optimization atleast 1.5 kilometers away)  
@@ -25,5 +25,5 @@ This project is designed for further upgrades. Planned improvements include:
 
 ---
 
-## 🧠 Note
+##  Note
 This project is open for reference and learning purposes. Feel free to explore the code and adapt it for your own projects.

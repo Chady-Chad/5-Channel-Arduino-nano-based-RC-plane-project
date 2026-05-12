@@ -8,10 +8,10 @@ The project focuses on combining **embedded systems design**, **wireless communi
 ---
 
 ##  Current Features
-- ✔️ 5-channel wireless control system  
-- ✔️ Arduino Nano-based transmitter/receiver setup  
-- ✔️ nRF24L01 2.4GHz communication module  
-- ✔️ Realistic LED flight indicators  
+-  5-channel wireless control system  
+-  Arduino Nano-based transmitter/receiver setup  
+-  nRF24L01 2.4GHz communication module  
+-  Realistic LED flight indicators  
 
 ---
 
